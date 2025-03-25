@@ -13,6 +13,7 @@
   <br>
   <img src="https://tryhackme.com/img/thm_public_badge_bg.svg" alt="Your Image Badge" />
   <br / >
+![My TryHackMe Badge](https://tryhackme.com/badge/CediLia)
 
 
 ---
