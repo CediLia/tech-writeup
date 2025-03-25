@@ -10,6 +10,9 @@
   <img src="https://assets.tryhackme.com/img/badges/webbed.svg" width="50" title="Webbed - Understands how the world wide web works" />
   <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" width="50" title="World Wide Web - Completing the 'How The Web Works' module" />
   <img src="https://assets.tryhackme.com/img/badges/linux.svg" width="50" title="Tcat linux.txt - Being competent in Linux" />
+  <br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/CediLia.png" alt="Your Image Badge" />
+  <br / >
 
 
 ---
@@ -47,10 +50,10 @@ I’m building up a skillset through sweat, shells, and semi-controlled chaos.
 
 | Repo | Description |
 |------|-------------|
-| [**thm-writeups**](https://github.com/CediLia/thm-writeups) | Structured TryHackMe walkthroughs with clean, methodical methodology |
-| [**offensive-sec**](https://github.com/CediLia/offensive-sec) | Offensive Security vault: writeups, tools, tactics, and automation |
-| [**defensive-sec**](https://github.com/CediLia/defensive-sec) | Blue Team playbook: detection logic, SIEM work, response scripting |
-| [**presecurity**](https://github.com/CediLia/presecurity) | Cyber foundations — notes, tools, and writeups from PreSecurity path |
+| [**tech-writeup**](https://github.com/CediLia/tech-writeup) | Structured TryHackMe walkthroughs with clean, methodical methodology |
+| [**Offensive-Sec**](https://github.com/CediLia/Offensive-Sec) | Offensive Security vault: writeups, tools, tactics, and automation |
+| [**Defensive-Sec**](https://github.com/CediLia/Defensive-Sec) | Blue Team playbook: detection logic, SIEM work, response scripting |
+| [**Pre-Security**](https://github.com/CediLia/Pre-Security) | Cyber foundations — notes, tools, and writeups from PreSecurity path |
 | [**goblin-tools**](https://github.com/CediLia/goblin-tools) *(coming soon)* | Custom-built tools for recon, privesc, shell access, and blue team ops |
 | [**ctf-journal**](https://github.com/CediLia/ctf-journal) *(coming soon)* | Writeups and payloads from CTF platforms like HackTheBox and THM |
 | [**active-directory-lab**](https://github.com/CediLia/ad-lab) *(planned)* | Home lab infrastructure for learning AD attack chains and defense |
@@ -72,12 +75,12 @@ I’m building up a skillset through sweat, shells, and semi-controlled chaos.
 ### ✍️ Featured Writeups
 
 <p align="center">
-  <a href="https://github.com/CediLia/thm-writeups">
+  <a href="https://github.com/CediLia/tech-writeup">
     <img src="https://img.shields.io/badge/THM%20Writeups-Explore%20Now-%2300ffcc?style=for-the-badge&logo=markdown&logoColor=black" alt="TryHackMe Writeups Badge" />
   </a>
 </p>
 
-> 📚 Clean, structured walkthroughs from [TryHackMe](https://tryhackme.com/p/CyDieLia).  
+> 📚 Clean, structured walkthroughs from [TryHackMe](https://tryhackme.com/p/CediLia).  
 > Reinforcing skills. No flag dumps. Just raw methodology.
 
 ---
