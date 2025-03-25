@@ -6,12 +6,10 @@
   <br /><br />
   <!-- Placeholder SVG badge strip -->
   <img src="https://assets.tryhackme.com/img/badges/firstfour.svg" width="50" title="First Four - Completing four rooms in your first week of joining!" />
-  <img src="https://raw.githubusercontent.com/CediLia/assets/main/svg/bash.svg" width="50" title="Bash" />
-  <img src="https://raw.githubusercontent.com/CediLia/assets/main/svg/python.svg" width="50" title="Python" />
-  <img src="https://raw.githubusercontent.com/CediLia/assets/main/svg/burpsuite.svg" width="50" title="Burp Suite" />
-  <img src="https://raw.githubusercontent.com/CediLia/assets/main/svg/tryhackme.svg" width="50" title="TryHackMe" />
-  <img src="https://raw.githubusercontent.com/CediLia/assets/main/svg/goblin.svg" width="50" title="Goblin Mode" />
-</p>
+  <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" width="50" title="Networking Nerd - Completing the 'Network Fundamentals' module" />
+  <img src="https://assets.tryhackme.com/img/badges/webbed.svg" width="50" title="Webbed - Understands how the world wide web works" />
+  <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" width="50" title="World Wide Web - Completing the 'How The Web Works' module" />
+  <img src="https://assets.tryhackme.com/img/badges/linux.svg" width="50" title="Tcat linux.txt - Being competent in Linux" />
 
 
 ---
