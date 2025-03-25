@@ -29,7 +29,7 @@ These writeups are crafted to reinforce hands-on learning, showcase real-world t
 
 | Room Name            | Difficulty | Tags                   | Status       |
 |----------------------|------------|------------------------|--------------|
-| [Basic Pentesting](./Offensive/BasicPentesting.md) | Easy | #enum #ssh #linux        | ✅ Completed |
+| [Basic Pentesting](https://github.com/CediLia/basic-pentesting/tree/main) | Easy | #enum #ssh #linux        | ✅ Completed |
 | Overpass             | Medium     | #web #reverse #hashcat | 📝 Planned   |
 | Internal             | Hard       | #ad #smb #bloodhound   | 📝 Planned   |
 
