@@ -21,7 +21,7 @@ These writeups are crafted to reinforce hands-on learning, showcase real-world t
 
 | Room Name            | Difficulty | Tags                   | Status       |
 |----------------------|------------|------------------------|--------------|
-| [Intro to Networking](./PreSecurity/IntroToNetworking.md) | Easy | #networking #ip #dns     | ✅ Completed |
+| [Intro to Networking](/Offensive/nmap -sC -sV -oN nmap.md) | Easy | #networking #ip #dns     | ✅ Completed |
 
 ---
 
