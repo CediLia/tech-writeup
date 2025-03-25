@@ -11,8 +11,7 @@
   <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" width="50" title="World Wide Web - Completing the 'How The Web Works' module" />
   <img src="https://assets.tryhackme.com/img/badges/linux.svg" width="50" title="Tcat linux.txt - Being competent in Linux" />
   <br>
-  <img src="https://tryhackme.com/img/thm_public_badge_bg.svg" alt="Your Image Badge" />
-  <img src="https://tryhackme-badges.s3.amazonaws.com/CediLia.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/CediLia.png?update=1" style='border:none;' />
   <br / >
 
 
