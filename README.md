@@ -21,7 +21,7 @@ These writeups are crafted to reinforce hands-on learning, showcase real-world t
 
 | Room Name            | Difficulty | Tags                   | Status       |
 |----------------------|------------|------------------------|--------------|
-| [Intro to Networking](https://github.com/CediLia/tech-writeup/tree/main/PreSecurity) | Easy | #networking #ip #dns     | ✅ Completed |
+| [Intro to Networking](https://github.com/CediLia/intro-to-networking) | Easy | #networking #ip #dns     | ✅ Completed |
 
 ---
 
