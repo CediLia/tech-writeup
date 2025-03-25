@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/TryHackMe-CyDieLia-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <br /><br />
   <!-- Placeholder SVG badge strip -->
-  <img src="https://raw.githubusercontent.com/CediLia/assets/main/svg/linux.svg" width="50" title="Linux" />
+  <img src="https://assets.tryhackme.com/img/badges/firstfour.svg" width="50" title="First Four" />
   <img src="https://raw.githubusercontent.com/CediLia/assets/main/svg/bash.svg" width="50" title="Bash" />
   <img src="https://raw.githubusercontent.com/CediLia/assets/main/svg/python.svg" width="50" title="Python" />
   <img src="https://raw.githubusercontent.com/CediLia/assets/main/svg/burpsuite.svg" width="50" title="Burp Suite" />
