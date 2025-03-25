@@ -12,8 +12,9 @@
   <img src="https://assets.tryhackme.com/img/badges/linux.svg" width="50" title="Tcat linux.txt - Being competent in Linux" />
   <br>
   <img src="https://tryhackme.com/img/thm_public_badge_bg.svg" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/CediLia.png" alt="Your Image Badge" />
   <br / >
-![My TryHackMe Badge](https://tryhackme.com/badge/CediLia)
+
 
 
 ---
